@@ -1,0 +1,24 @@
+{
+  "user": {
+    "name": "Alex",
+    "role": "Corezoid developer",
+    "email": "alex@example.com"
+  },
+  "corezoid": {
+    "credentials_path": "~/.corezoid/config.json",
+    "user_id": 0,
+    "stages": {
+      "101": "Dev",
+      "202": "Stage"
+    }
+  },
+  "jira": {
+    "project_key": "PROJ",
+    "site": "your-company.atlassian.net"
+  },
+  "telegram_env": "~/.daily-digest.env",
+  "tracker_dir": "",
+  "output_dir": "~/WorkLog",
+  "claude_workdir": "~",
+  "language": "English"
+}
